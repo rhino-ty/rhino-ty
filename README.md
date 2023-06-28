@@ -36,5 +36,5 @@
 
 
 # 🔗 Link
-👨🏻‍💻 tech blog : https://velog.io/@okko8522
+👨🏻‍💻 tech blog : https://velog.io/@okko8522 <br />
 ✉️ contact : okko8522@gmail.com / okko8522@naver.com
