@@ -1,11 +1,13 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=f0f0f0&center=true&vCenter=true&width=435&lines=Hi%2C+there.+I'm+Lio.+)](https://git.io/typing-svg)
 # 🦏 Creative Habits
-<p>👋 안녕하세요 Frontend Developer 윤태연입니다.</p>  <br />
+<p>👋 Hi, I'm a Web Front-end developer</p>  <br />
 
-🧔 진로에 한계를 얻고 방황하던 차 아버지께 개발을 접하고 내가 생각한대로 기능 개발하는 것에 매료돼 개발을 시작했습니다. 그러면서 과정과 문제 해결에 희열감을 느껴 프로그래밍의 길을 선택하게 됐습니다. 
-<p>🛠️ 저의 뇌는 가소성이 매우 높기 때문에 금방 잊습니다. 그래서 기록을 해 완벽하지 않은 기억을 보충하며 재미를 되새김질 하고 있습니다. 또 다른 사람들도 되새김질하라고 제 기억을 드리고 있습니다. </p>
-<p>✨ 이제는 클라이언트가 원하는 기능을 바로 구현하고, 시야를 넓혀 남들이 봐도 부끄럽지 않게 로직을 짜는 개발자가 되는 것이 목표입니다. </p>
+<p>🤔 I'm interested in anything related to computers and eager to learn more.</p>
+<p>✨ My goal now is to become a developer who can immediately implement the features and develop meaningful functionalities. </p>
 
-요즘엔 Next.js 13.4 App Direction 버전으로 개발하고 있고, 취미로 Flutter, Dart를 공부하고 있습니다.
+These days, I'm developing with Next.js 13.4 App Directory version and studying Flutter and Dart as a hobby.
 
 <br/>  
 
@@ -44,5 +46,7 @@
 
 
 # 🔗 Link
-👨🏻‍💻 tech blog : https://velog.io/@okko8522 <br />
-✉️ contact : okko8522@gmail.com / okko8522@naver.com
+👨🏻‍💻 Tech Blog : [Velog](https://velog.io/@okko8522) <br />
+<div style="width: 100%; display: flex; justify-content: center; align-items: center;">✉️ Contact : <a href="okko8522@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-f0f0f0?style=flat-square&logo=Gmail&logoColor=000"/></a></div>
+
+</div>
