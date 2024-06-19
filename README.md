@@ -14,10 +14,7 @@ These days, I'm developing with Next.js 13.4 App Directory version and studying 
 # 👨🏻‍💻 GitHub stats
 
 
-<div style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
-     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhino-ty&layout=compact&theme=transparent" />  
-     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rhino-ty&show_icons=true&theme=transparent" />
-</div>
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
 <br/>
