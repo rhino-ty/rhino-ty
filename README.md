@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=f0f0f0&center=true&vCenter=true&width=435&lines=Hi%2C+there.+I'm+Leo.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=f0f0f0&center=true&vCenter=true&width=435&lines=Hi%2C+there.+I'm+Taeyeon+Yoon.+)](https://git.io/typing-svg)
 # 🦏 Creative Habits
 <p>👋 Hi, I'm a Web Front-end developer</p>  <br />
 
