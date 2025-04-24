@@ -1,7 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&color=f0f0f0&center=true&vCenter=true&pause=1500&lines=Hi%2C+there.+I'm+Taeyeon+Yoon.)](https://git.io/typing-svg)
-
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://readme-typing-svg.demolab.com?font=Lobster&color=f0f0f0&center=true&vCenter=true&pause=1500&lines=Hi%2C+there.+I'm+Taeyeon+Yoon.">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://readme-typing-svg.demolab.com?font=Lobster&color=323232&center=true&vCenter=true&pause=1500&lines=Hi%2C+there.+I'm+Taeyeon+Yoon.">
+  <img 
+    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com?font=Lobster&color=323232&center=true&vCenter=true&pause=1500&lines=Hi%2C+there.+I'm+Taeyeon+Yoon.">
+</picture>
 
 # 🦏 Creative Habits
 <p>👋 Hi, I'm a Web Front-end developer</p>  <br />
